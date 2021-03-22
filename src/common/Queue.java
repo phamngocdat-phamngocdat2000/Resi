@@ -2,7 +2,7 @@ package common;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
-
++
 /**
  * The {@code Queue} class represents a first-in-first-out (FIFO) queue of
  * generic items. It supports the usual <em>enqueue</em> and <em>dequeue</em>
